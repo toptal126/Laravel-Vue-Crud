@@ -1,0 +1,20 @@
+/* * {
+    direction: rtl !important;
+    text-align: right;
+} */
+
+a {
+    text-decoration: none !important;
+}
+
+.form {
+    margin: 30px;
+}
+
+/* .form-group label {
+    float: right !important;
+} */
+
+/* .invalid-feedback {
+    text-align: right !important;
+} */
